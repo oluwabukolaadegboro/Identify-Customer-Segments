@@ -1,10 +1,9 @@
 # Identify-Customer-Segments
 
-In this project, I applied my knowledge of unsupervised learning techniques to identify population segments which forms the core customer base for a mail-order sales company in Germany. These segments are used to direct marketing campaigns towards audiences with the highest expected rate of returns. 
+In this project, I applied my knowledge of unsupervised learning techniques to identify population segments which form the core customer base for a mail-order sales company in Germany. These segments are used to direct marketing campaigns towards customers with the highest expected rate of returns.
 
-At the end of this project, I was able to make a comparism between the general population and potential customers who identify with segments of the population that are central to the sale's company's base as well as those who are not.
+I applied data cleaning and feature transformation techniques to remove anomalies from the data. Then I applied dimensionality reduction to extract important features and implemented clustering techniques to understand the underlying patterns connecting customers within the same group. 
 
-Note that the data was sourced and is a copyright of Bertelsmann Arvato Analytics.
+With this information, I identified potential customers within the segments of the population that are central to increasing the company’s revenue.
 
-@Udacity Machine Learning Introduction Nanodegree
 
